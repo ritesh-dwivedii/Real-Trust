@@ -1,4 +1,4 @@
-#Admin Username and Password(For Testing Purpose)
+# Admin Username and Password(For Testing Purpose)
 User = Ritesh
 Password = 445566
 # Real Trust Real Estate Web Application
