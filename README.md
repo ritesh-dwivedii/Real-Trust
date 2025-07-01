@@ -1,6 +1,6 @@
 # Admin Username and Password(For Testing Purpose)
-User = Ritesh
-Password = 445566
+- User = Ritesh
+- Password = 445566
 # Real Trust Real Estate Web Application
 
 A full-stack real estate web application featuring a modern landing page and a secure admin panel. Built with React (Vite, Material UI) for the frontend and Node.js (Express, MongoDB, JWT) for the backend.
