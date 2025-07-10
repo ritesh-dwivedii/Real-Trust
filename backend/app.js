@@ -10,7 +10,11 @@ const adminRoutes = require("./routes/admin");
 
 const app = express();
 app.use(express.json());
-app.use(cors());
+app.use(cors({
+  origin: 'https://real-trust-five.vercel.app',
+  methods: ['GET', 'POST', 'PUT', 'DELETE'],
+  credentials: true,
+}));
 
 // Database connection
 connectDB();
